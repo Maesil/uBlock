@@ -7,13 +7,13 @@
 
 현재 시점에서 *두 분기*가 있습니다. 공식적인 것과 비공식적인 것은 아닙니다. [2014년 6월 23일 uBlock이 시작된 이후](http://www.wilderssecurity.com/threads/ublock-a-lean-and-fast-blocker.365273/)에도 저는 제 분기를 같은 방향, 같은 정신으로 계속 개발할 것입니다.
 
-uBlock Origin과 uBlock의 기능 차이에 대해 중립적인 설명을 원한다면 [위키피디아 항목](http://en.wikipedia.org/wiki/UBlock) 을 참조해 보시기 바랍니다.
+**uBlock Origin은 'ublock.org'와 __전혀 무관__합니다.** 'ublock.org'에 기부를 하는 것은 ublock의 대부분을 만든 사람 ([개발자](https://github.com/gorhill/uBlock/graphs/contributors)<sup>[2]</sup>, [번역가](https://crowdin.com/project/ublock), issue를 만들어 주신 대다수의 사람들)에 __전혀__ 도움이 되지 않습니다. uBlock Origin과 uBlock의 기능 차이에 대해 중립적인 설명을 원한다면 [위키피디아 항목](http://en.wikipedia.org/wiki/UBlock) 을 참조해 보시기 바랍니다.
 
-5월 말부터, 저는 이 [uBlock branch](https://github.com/chrisaljoudi/uBlock)<sup>[2]</sup> 분기에 코드를 더이상 기여하지 않기로 했습니다.
+5월 말부터, 저는 이 [uBlock branch](https://github.com/chrisaljoudi/uBlock)<sup>[3]</sup> 분기에 코드를 더이상 기여하지 않기로 했습니다.
 
 <sub>[1] [예시](https://www.ublock.org/faq/). [또 다른 예시](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/reviews/716364/).</sub>
-
-<sub>[2] 이유: [이것](https://en.wikipedia.org/w/index.php?title=UBlock&type=revision&diff=662527440&oldid=662107368) vs. [이것](https://github.com/chrisaljoudi/uBlock/commits/master?author=gorhill),  [이것](https://www.reddit.com/r/ublock/comments/38lf1y/any_difference_between_ublock_and_ublock_origin/crwhmwt).</sub>
+<sub>[2] 문서나 벤치마크같이 위키에 있는 항목 대다수에는 해당되지 않는 점을 명심해주세요. 위키 대부분은 'ublock.org' 아래에 있는 개인들이 만들었습니다. </sub><br>
+<sub>[3] 이유: [이것](https://en.wikipedia.org/w/index.php?title=UBlock&type=revision&diff=662527440&oldid=662107368) vs. [이것](https://github.com/chrisaljoudi/uBlock/commits/master?author=gorhill),  [이것](https://www.reddit.com/r/ublock/comments/38lf1y/any_difference_between_ublock_and_ublock_origin/crwhmwt).</sub>
 
 *** 
 
@@ -83,7 +83,7 @@ uBlock₀을 설치하고, 당신이 생각하기에 uBlock₀의 차단목록�
 #### 메모리
 
 <div align="center">
-다음 벤치마크를 평균적으로 따져보면, uBlock₀은 당신의 브라우저를 훨씬 더 가볍게 만듭니다. <sup>[1]</sup><br><br>
+평균적으로 따져보면, uBlock₀은 **실제**로 당신의 브라우저를 훨씬 더 가볍게 만듭니다. <sup>[1]</sup><br><br>
 
 크로미움 <sup>[2]</sup><br>
 <img src="https://raw.githubusercontent.com/gorhill/uBlock/master/doc/benchmarks/mem-usage-overall-chart-20141224.png" /><br><br>
